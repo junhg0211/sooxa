@@ -1,0 +1,39 @@
+[
+  {
+    "language_id": "zc",
+    "id": "1",
+    "type": 1,
+    "sentence": "Aniska, Sat!",
+    "sentences": [
+      "Aniska!",
+      "Üpa!"
+    ],
+    "answer": "Aniska!"
+  },
+  {
+    "language_id": "zc",
+    "id": "2",
+    "type": 2,
+    "sentence": "안녕하세요, 세상!",
+    "words": [
+      "Aniska",
+      "Sat",
+      "Üpa",
+      "ö",
+      "vistùm",
+      "Disas"
+    ],
+    "answer": "Aniska Sat"
+  },
+  {
+    "language_id": "zc",
+    "id": "3",
+    "type": 3,
+    "sentence": "안녕하세요, 세상!",
+    "sentences": [
+      "Aniska, Sat!",
+      "Üpa ö vistùm!"
+    ],
+    "answer": "Aniska, Sat!"
+  }
+]

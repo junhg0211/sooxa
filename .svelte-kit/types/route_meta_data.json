@@ -1,0 +1,9 @@
+{
+	"/": [],
+	"/language/[language_id]": [
+		"src/routes/language/[language_id]/+page.js"
+	],
+	"/language/[language_id]/chapter/[chapter_id]": [
+		"src/routes/language/[language_id]/chapter/[chapter_id]/+page.js"
+	]
+}
